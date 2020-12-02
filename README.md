@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -  I’m a graduate student major in AI
 - My website : [lovemefam.top](lovemefam.top) 
 - How to reach me: lovemefan@outlook.com
-- I will try more idea and opened in the future. 
+- I will try more idea in the future. 
 
 #### skills
 
