@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ![my_github](https://github-readme-stats.vercel.app/api?username=lovemefan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![code](https://github-readme-stats.vercel.app/api/top-langs/?username=lovemefan&layout=compact&text_color=daf7dc&bg_color=151515)
+![code](https://github-readme-stats.vercel.app/api/top-langs/?username=lovemefan&layout=compact&text_color=daf7dc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
