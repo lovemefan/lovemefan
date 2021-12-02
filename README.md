@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### About Me
 
--  I’m a graduate student major in AI
+-  I’m a graduate student major in speech enhancement and speech recognition
 - My website : [lovemefan.top](http://lovemefan.top) 
 - How to reach me: lovemefan@outlook.com
 - I will try more idea in the future. 
