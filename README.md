@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### About Me
 
--  I’m a graduate student majored in speech enhancement and speech recognition
+-  I’m a graduated student majored in singing voice synthesis, speech recognition and speech enhancement
 - My website : [lovemefan.top](http://lovemefan.top) 
 - How to reach me: lovemefan@outlook.com
 - I will try more idea in the future. 
